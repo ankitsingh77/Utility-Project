@@ -1,0 +1,21 @@
+﻿<Window x:Class="Search_Files.SearchResult"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:ctl ="clr-namespace:Search_Files.Controls"
+        Title="Local Search Engine" Height="361" Width="693" ResizeMode="CanResize"  WindowStartupLocation="CenterScreen" Icon="/images/icon.gif"
+    Style="{StaticResource CustomStyle}">
+    <Border>
+    <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="208*" />
+                <ColumnDefinition Width="266*" />
+                <ColumnDefinition Width="193*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <ctl:SearchBar VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Grid.ColumnSpan="3" Margin="0,0,0,-93" Grid.Row="1" />
+    </Grid>
+</Border>
+</Window>

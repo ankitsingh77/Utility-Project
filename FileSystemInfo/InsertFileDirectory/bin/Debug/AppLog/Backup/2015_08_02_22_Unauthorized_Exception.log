@@ -1,0 +1,1272 @@
+2015-08-02 22:20:00.095 | 3 | FATAL Access to the path 'C:\Documents and Settings' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Documents and Settings' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:18.639 | 3 | FATAL Access to the path 'C:\ProgramData\Application Data' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\ProgramData\Application Data' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:18.700 | 3 | FATAL Access to the path 'C:\ProgramData\Desktop' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\ProgramData\Desktop' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:18.709 | 3 | FATAL Access to the path 'C:\ProgramData\Documents' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\ProgramData\Documents' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:18.718 | 3 | FATAL Access to the path 'C:\ProgramData\Favorites' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\ProgramData\Favorites' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:20.115 | 3 | FATAL Access to the path 'C:\ProgramData\Start Menu' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\ProgramData\Start Menu' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:20.132 | 3 | FATAL Access to the path 'C:\ProgramData\Templates' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\ProgramData\Templates' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:26.200 | 3 | FATAL Access to the path 'C:\Users\Administrator\AppData\Local\Application Data' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\Administrator\AppData\Local\Application Data' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:26.429 | 3 | FATAL Access to the path 'C:\Users\Administrator\AppData\Local\History' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\Administrator\AppData\Local\History' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:27.086 | 3 | FATAL Access to the path 'C:\Users\Administrator\Application Data' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\Administrator\Application Data' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:27.095 | 3 | FATAL Access to the path 'C:\Users\Administrator\Cookies' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\Administrator\Cookies' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:27.112 | 3 | FATAL Access to the path 'C:\Users\Administrator\Documents\My Music' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\Administrator\Documents\My Music' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:27.121 | 3 | FATAL Access to the path 'C:\Users\Administrator\Documents\My Pictures' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\Administrator\Documents\My Pictures' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:27.130 | 3 | FATAL Access to the path 'C:\Users\Administrator\Documents\My Videos' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\Administrator\Documents\My Videos' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:27.782 | 3 | FATAL Access to the path 'C:\Users\Administrator\Local Settings' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\Administrator\Local Settings' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:27.792 | 3 | FATAL Access to the path 'C:\Users\Administrator\My Documents' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\Administrator\My Documents' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:27.800 | 3 | FATAL Access to the path 'C:\Users\Administrator\NetHood' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\Administrator\NetHood' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:27.810 | 3 | FATAL Access to the path 'C:\Users\Administrator\PrintHood' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\Administrator\PrintHood' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:27.818 | 3 | FATAL Access to the path 'C:\Users\Administrator\Recent' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\Administrator\Recent' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:27.830 | 3 | FATAL Access to the path 'C:\Users\Administrator\SendTo' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\Administrator\SendTo' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:27.842 | 3 | FATAL Access to the path 'C:\Users\Administrator\Start Menu' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\Administrator\Start Menu' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:27.850 | 3 | FATAL Access to the path 'C:\Users\Administrator\Templates' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\Administrator\Templates' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:27.870 | 3 | FATAL Access to the path 'C:\Users\All Users\Application Data' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\All Users\Application Data' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:27.934 | 3 | FATAL Access to the path 'C:\Users\All Users\Desktop' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\All Users\Desktop' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:27.943 | 3 | FATAL Access to the path 'C:\Users\All Users\Documents' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\All Users\Documents' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:27.952 | 3 | FATAL Access to the path 'C:\Users\All Users\Favorites' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\All Users\Favorites' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:29.480 | 3 | FATAL Access to the path 'C:\Users\All Users\Start Menu' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\All Users\Start Menu' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:29.500 | 3 | FATAL Access to the path 'C:\Users\All Users\Templates' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\All Users\Templates' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:29.518 | 3 | FATAL Access to the path 'C:\Users\ASP.NET v4.0\AppData\Local\Application Data' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\ASP.NET v4.0\AppData\Local\Application Data' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:29.528 | 3 | FATAL Access to the path 'C:\Users\ASP.NET v4.0\AppData\Local\History' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\ASP.NET v4.0\AppData\Local\History' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:29.548 | 3 | FATAL Access to the path 'C:\Users\ASP.NET v4.0\AppData\Local\Temporary Internet Files' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\ASP.NET v4.0\AppData\Local\Temporary Internet Files' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:29.581 | 3 | FATAL Access to the path 'C:\Users\ASP.NET v4.0\Application Data' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\ASP.NET v4.0\Application Data' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:29.591 | 3 | FATAL Access to the path 'C:\Users\ASP.NET v4.0\Cookies' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\ASP.NET v4.0\Cookies' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:29.601 | 3 | FATAL Access to the path 'C:\Users\ASP.NET v4.0\Documents\My Music' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\ASP.NET v4.0\Documents\My Music' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:29.611 | 3 | FATAL Access to the path 'C:\Users\ASP.NET v4.0\Documents\My Pictures' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\ASP.NET v4.0\Documents\My Pictures' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:29.621 | 3 | FATAL Access to the path 'C:\Users\ASP.NET v4.0\Documents\My Videos' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\ASP.NET v4.0\Documents\My Videos' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:29.632 | 3 | FATAL Access to the path 'C:\Users\ASP.NET v4.0\Local Settings' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\ASP.NET v4.0\Local Settings' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:29.641 | 3 | FATAL Access to the path 'C:\Users\ASP.NET v4.0\My Documents' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\ASP.NET v4.0\My Documents' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:29.650 | 3 | FATAL Access to the path 'C:\Users\ASP.NET v4.0\NetHood' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\ASP.NET v4.0\NetHood' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:29.660 | 3 | FATAL Access to the path 'C:\Users\ASP.NET v4.0\PrintHood' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\ASP.NET v4.0\PrintHood' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:29.669 | 3 | FATAL Access to the path 'C:\Users\ASP.NET v4.0\Recent' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\ASP.NET v4.0\Recent' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:29.678 | 3 | FATAL Access to the path 'C:\Users\ASP.NET v4.0\SendTo' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\ASP.NET v4.0\SendTo' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:29.687 | 3 | FATAL Access to the path 'C:\Users\ASP.NET v4.0\Start Menu' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\ASP.NET v4.0\Start Menu' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:29.696 | 3 | FATAL Access to the path 'C:\Users\ASP.NET v4.0\Templates' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\ASP.NET v4.0\Templates' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:29.709 | 3 | FATAL Access to the path 'C:\Users\Classic .NET AppPool\AppData\Local\Application Data' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\Classic .NET AppPool\AppData\Local\Application Data' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:29.718 | 3 | FATAL Access to the path 'C:\Users\Classic .NET AppPool\AppData\Local\History' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\Classic .NET AppPool\AppData\Local\History' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:29.736 | 3 | FATAL Access to the path 'C:\Users\Classic .NET AppPool\AppData\Local\Temporary Internet Files' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\Classic .NET AppPool\AppData\Local\Temporary Internet Files' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:29.761 | 3 | FATAL Access to the path 'C:\Users\Classic .NET AppPool\Application Data' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\Classic .NET AppPool\Application Data' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:29.770 | 3 | FATAL Access to the path 'C:\Users\Classic .NET AppPool\Cookies' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\Classic .NET AppPool\Cookies' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:29.780 | 3 | FATAL Access to the path 'C:\Users\Classic .NET AppPool\Documents\My Music' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\Classic .NET AppPool\Documents\My Music' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:29.789 | 3 | FATAL Access to the path 'C:\Users\Classic .NET AppPool\Documents\My Pictures' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\Classic .NET AppPool\Documents\My Pictures' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:29.799 | 3 | FATAL Access to the path 'C:\Users\Classic .NET AppPool\Documents\My Videos' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\Classic .NET AppPool\Documents\My Videos' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:29.809 | 3 | FATAL Access to the path 'C:\Users\Classic .NET AppPool\Local Settings' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\Classic .NET AppPool\Local Settings' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:29.818 | 3 | FATAL Access to the path 'C:\Users\Classic .NET AppPool\My Documents' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\Classic .NET AppPool\My Documents' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:29.827 | 3 | FATAL Access to the path 'C:\Users\Classic .NET AppPool\NetHood' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\Classic .NET AppPool\NetHood' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:29.836 | 3 | FATAL Access to the path 'C:\Users\Classic .NET AppPool\PrintHood' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\Classic .NET AppPool\PrintHood' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:29.845 | 3 | FATAL Access to the path 'C:\Users\Classic .NET AppPool\Recent' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\Classic .NET AppPool\Recent' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:29.854 | 3 | FATAL Access to the path 'C:\Users\Classic .NET AppPool\SendTo' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\Classic .NET AppPool\SendTo' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:29.863 | 3 | FATAL Access to the path 'C:\Users\Classic .NET AppPool\Start Menu' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\Classic .NET AppPool\Start Menu' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:29.872 | 3 | FATAL Access to the path 'C:\Users\Classic .NET AppPool\Templates' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\Classic .NET AppPool\Templates' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:29.884 | 3 | FATAL Access to the path 'C:\Users\Default\AppData\Local\Application Data' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\Default\AppData\Local\Application Data' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:29.894 | 3 | FATAL Access to the path 'C:\Users\Default\AppData\Local\History' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\Default\AppData\Local\History' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:29.915 | 3 | FATAL Access to the path 'C:\Users\Default\AppData\Local\Temporary Internet Files' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\Default\AppData\Local\Temporary Internet Files' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:29.942 | 3 | FATAL Access to the path 'C:\Users\Default\Application Data' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\Default\Application Data' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:29.951 | 3 | FATAL Access to the path 'C:\Users\Default\Cookies' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\Default\Cookies' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:29.960 | 3 | FATAL Access to the path 'C:\Users\Default\Documents\My Music' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\Default\Documents\My Music' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:29.969 | 3 | FATAL Access to the path 'C:\Users\Default\Documents\My Pictures' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\Default\Documents\My Pictures' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:29.978 | 3 | FATAL Access to the path 'C:\Users\Default\Documents\My Videos' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\Default\Documents\My Videos' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:29.992 | 3 | FATAL Access to the path 'C:\Users\Default\Local Settings' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\Default\Local Settings' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:30.001 | 3 | FATAL Access to the path 'C:\Users\Default\My Documents' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\Default\My Documents' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:30.010 | 3 | FATAL Access to the path 'C:\Users\Default\NetHood' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\Default\NetHood' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:30.019 | 3 | FATAL Access to the path 'C:\Users\Default\PrintHood' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\Default\PrintHood' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:30.027 | 3 | FATAL Access to the path 'C:\Users\Default\Recent' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\Default\Recent' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:30.037 | 3 | FATAL Access to the path 'C:\Users\Default\SendTo' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\Default\SendTo' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:30.045 | 3 | FATAL Access to the path 'C:\Users\Default\Start Menu' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\Default\Start Menu' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:30.054 | 3 | FATAL Access to the path 'C:\Users\Default\Templates' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\Default\Templates' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:30.064 | 3 | FATAL Access to the path 'C:\Users\Default User' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\Default User' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:30.073 | 3 | FATAL Access to the path 'C:\Users\DefaultAppPool\AppData\Local\Application Data' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\DefaultAppPool\AppData\Local\Application Data' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:30.083 | 3 | FATAL Access to the path 'C:\Users\DefaultAppPool\AppData\Local\History' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\DefaultAppPool\AppData\Local\History' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:30.101 | 3 | FATAL Access to the path 'C:\Users\DefaultAppPool\AppData\Local\Temporary Internet Files' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\DefaultAppPool\AppData\Local\Temporary Internet Files' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:30.130 | 3 | FATAL Access to the path 'C:\Users\DefaultAppPool\Application Data' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\DefaultAppPool\Application Data' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:30.139 | 3 | FATAL Access to the path 'C:\Users\DefaultAppPool\Cookies' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\DefaultAppPool\Cookies' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:30.148 | 3 | FATAL Access to the path 'C:\Users\DefaultAppPool\Documents\My Music' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\DefaultAppPool\Documents\My Music' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:30.157 | 3 | FATAL Access to the path 'C:\Users\DefaultAppPool\Documents\My Pictures' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\DefaultAppPool\Documents\My Pictures' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:30.166 | 3 | FATAL Access to the path 'C:\Users\DefaultAppPool\Documents\My Videos' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\DefaultAppPool\Documents\My Videos' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:30.177 | 3 | FATAL Access to the path 'C:\Users\DefaultAppPool\Local Settings' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\DefaultAppPool\Local Settings' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:30.186 | 3 | FATAL Access to the path 'C:\Users\DefaultAppPool\My Documents' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\DefaultAppPool\My Documents' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:30.195 | 3 | FATAL Access to the path 'C:\Users\DefaultAppPool\NetHood' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\DefaultAppPool\NetHood' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:30.204 | 3 | FATAL Access to the path 'C:\Users\DefaultAppPool\PrintHood' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\DefaultAppPool\PrintHood' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:30.215 | 3 | FATAL Access to the path 'C:\Users\DefaultAppPool\Recent' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\DefaultAppPool\Recent' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:30.225 | 3 | FATAL Access to the path 'C:\Users\DefaultAppPool\SendTo' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\DefaultAppPool\SendTo' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:30.234 | 3 | FATAL Access to the path 'C:\Users\DefaultAppPool\Start Menu' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\DefaultAppPool\Start Menu' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:30.243 | 3 | FATAL Access to the path 'C:\Users\DefaultAppPool\Templates' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\DefaultAppPool\Templates' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:30.254 | 3 | FATAL Access to the path 'C:\Users\Public\Documents\My Music' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\Public\Documents\My Music' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:30.263 | 3 | FATAL Access to the path 'C:\Users\Public\Documents\My Pictures' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\Public\Documents\My Pictures' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:30.272 | 3 | FATAL Access to the path 'C:\Users\Public\Documents\My Videos' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\Public\Documents\My Videos' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:54.696 | 3 | FATAL Access to the path 'C:\Users\sankit\AppData\Local\Application Data' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\sankit\AppData\Local\Application Data' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:20:59.493 | 3 | FATAL Access to the path 'C:\Users\sankit\AppData\Local\History' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\sankit\AppData\Local\History' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:03.970 | 3 | FATAL Access to the path 'C:\Users\sankit\Application Data' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\sankit\Application Data' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:03.980 | 3 | FATAL Access to the path 'C:\Users\sankit\Cookies' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\sankit\Cookies' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:04.827 | 3 | FATAL Access to the path 'C:\Users\sankit\Documents\My Music' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\sankit\Documents\My Music' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:04.836 | 3 | FATAL Access to the path 'C:\Users\sankit\Documents\My Pictures' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\sankit\Documents\My Pictures' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:04.866 | 3 | FATAL Access to the path 'C:\Users\sankit\Documents\My Videos' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\sankit\Documents\My Videos' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:05.272 | 3 | FATAL Access to the path 'C:\Users\sankit\Local Settings' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\sankit\Local Settings' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:05.281 | 3 | FATAL Access to the path 'C:\Users\sankit\My Documents' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\sankit\My Documents' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:05.290 | 3 | FATAL Access to the path 'C:\Users\sankit\NetHood' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\sankit\NetHood' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:05.300 | 3 | FATAL Access to the path 'C:\Users\sankit\PrintHood' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\sankit\PrintHood' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:05.308 | 3 | FATAL Access to the path 'C:\Users\sankit\Recent' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\sankit\Recent' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:05.319 | 3 | FATAL Access to the path 'C:\Users\sankit\SendTo' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\sankit\SendTo' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:05.327 | 3 | FATAL Access to the path 'C:\Users\sankit\Start Menu' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\sankit\Start Menu' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:05.336 | 3 | FATAL Access to the path 'C:\Users\sankit\Templates' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\sankit\Templates' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:05.351 | 3 | FATAL Access to the path 'C:\Users\vnitinkumar\AppData\Local\Application Data' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\vnitinkumar\AppData\Local\Application Data' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:05.359 | 3 | FATAL Access to the path 'C:\Users\vnitinkumar\AppData\Local\History' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\vnitinkumar\AppData\Local\History' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:05.383 | 3 | FATAL Access to the path 'C:\Users\vnitinkumar\AppData\Local\Temporary Internet Files' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\vnitinkumar\AppData\Local\Temporary Internet Files' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:05.449 | 3 | FATAL Access to the path 'C:\Users\vnitinkumar\Application Data' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\vnitinkumar\Application Data' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:05.458 | 3 | FATAL Access to the path 'C:\Users\vnitinkumar\Cookies' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\vnitinkumar\Cookies' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:05.468 | 3 | FATAL Access to the path 'C:\Users\vnitinkumar\Documents\My Music' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\vnitinkumar\Documents\My Music' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:05.477 | 3 | FATAL Access to the path 'C:\Users\vnitinkumar\Documents\My Pictures' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\vnitinkumar\Documents\My Pictures' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:05.487 | 3 | FATAL Access to the path 'C:\Users\vnitinkumar\Documents\My Videos' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\vnitinkumar\Documents\My Videos' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:05.512 | 3 | FATAL Access to the path 'C:\Users\vnitinkumar\Local Settings' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\vnitinkumar\Local Settings' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:05.522 | 3 | FATAL Access to the path 'C:\Users\vnitinkumar\My Documents' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\vnitinkumar\My Documents' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:05.531 | 3 | FATAL Access to the path 'C:\Users\vnitinkumar\NetHood' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\vnitinkumar\NetHood' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:05.540 | 3 | FATAL Access to the path 'C:\Users\vnitinkumar\PrintHood' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\vnitinkumar\PrintHood' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:05.549 | 3 | FATAL Access to the path 'C:\Users\vnitinkumar\Recent' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\vnitinkumar\Recent' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:05.558 | 3 | FATAL Access to the path 'C:\Users\vnitinkumar\SendTo' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\vnitinkumar\SendTo' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:05.567 | 3 | FATAL Access to the path 'C:\Users\vnitinkumar\Start Menu' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\vnitinkumar\Start Menu' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:05.576 | 3 | FATAL Access to the path 'C:\Users\vnitinkumar\Templates' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Users\vnitinkumar\Templates' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:52.236 | 3 | FATAL Access to the path 'C:\Windows\System32\config\systemprofile\AppData\Local\Application Data' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Windows\System32\config\systemprofile\AppData\Local\Application Data' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:52.258 | 3 | FATAL Access to the path 'C:\Windows\System32\config\systemprofile\AppData\Local\History' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Windows\System32\config\systemprofile\AppData\Local\History' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:52.290 | 3 | FATAL Access to the path 'C:\Windows\System32\config\systemprofile\AppData\Local\Temporary Internet Files' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Windows\System32\config\systemprofile\AppData\Local\Temporary Internet Files' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:52.321 | 3 | FATAL Access to the path 'C:\Windows\System32\config\systemprofile\Application Data' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Windows\System32\config\systemprofile\Application Data' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:52.330 | 3 | FATAL Access to the path 'C:\Windows\System32\config\systemprofile\Cookies' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Windows\System32\config\systemprofile\Cookies' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:52.340 | 3 | FATAL Access to the path 'C:\Windows\System32\config\systemprofile\Documents\My Music' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Windows\System32\config\systemprofile\Documents\My Music' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:52.349 | 3 | FATAL Access to the path 'C:\Windows\System32\config\systemprofile\Documents\My Pictures' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Windows\System32\config\systemprofile\Documents\My Pictures' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:52.358 | 3 | FATAL Access to the path 'C:\Windows\System32\config\systemprofile\Documents\My Videos' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Windows\System32\config\systemprofile\Documents\My Videos' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:52.369 | 3 | FATAL Access to the path 'C:\Windows\System32\config\systemprofile\Local Settings' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Windows\System32\config\systemprofile\Local Settings' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:52.380 | 3 | FATAL Access to the path 'C:\Windows\System32\config\systemprofile\My Documents' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Windows\System32\config\systemprofile\My Documents' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:52.388 | 3 | FATAL Access to the path 'C:\Windows\System32\config\systemprofile\NetHood' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Windows\System32\config\systemprofile\NetHood' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:52.398 | 3 | FATAL Access to the path 'C:\Windows\System32\config\systemprofile\PrintHood' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Windows\System32\config\systemprofile\PrintHood' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:52.407 | 3 | FATAL Access to the path 'C:\Windows\System32\config\systemprofile\Recent' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Windows\System32\config\systemprofile\Recent' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:52.417 | 3 | FATAL Access to the path 'C:\Windows\System32\config\systemprofile\SendTo' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Windows\System32\config\systemprofile\SendTo' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:52.426 | 3 | FATAL Access to the path 'C:\Windows\System32\config\systemprofile\Start Menu' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Windows\System32\config\systemprofile\Start Menu' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:52.435 | 3 | FATAL Access to the path 'C:\Windows\System32\config\systemprofile\Templates' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Windows\System32\config\systemprofile\Templates' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:54.170 | 3 | FATAL Access to the path 'C:\Windows\SysWOW64\config\systemprofile\AppData\Local\Application Data' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Windows\SysWOW64\config\systemprofile\AppData\Local\Application Data' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:54.191 | 3 | FATAL Access to the path 'C:\Windows\SysWOW64\config\systemprofile\AppData\Local\History' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Windows\SysWOW64\config\systemprofile\AppData\Local\History' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:54.220 | 3 | FATAL Access to the path 'C:\Windows\SysWOW64\config\systemprofile\AppData\Local\Temporary Internet Files' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Windows\SysWOW64\config\systemprofile\AppData\Local\Temporary Internet Files' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:54.251 | 3 | FATAL Access to the path 'C:\Windows\SysWOW64\config\systemprofile\Application Data' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Windows\SysWOW64\config\systemprofile\Application Data' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:54.261 | 3 | FATAL Access to the path 'C:\Windows\SysWOW64\config\systemprofile\Cookies' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Windows\SysWOW64\config\systemprofile\Cookies' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:54.271 | 3 | FATAL Access to the path 'C:\Windows\SysWOW64\config\systemprofile\Documents\My Music' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Windows\SysWOW64\config\systemprofile\Documents\My Music' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:54.280 | 3 | FATAL Access to the path 'C:\Windows\SysWOW64\config\systemprofile\Documents\My Pictures' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Windows\SysWOW64\config\systemprofile\Documents\My Pictures' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:54.289 | 3 | FATAL Access to the path 'C:\Windows\SysWOW64\config\systemprofile\Documents\My Videos' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Windows\SysWOW64\config\systemprofile\Documents\My Videos' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:54.302 | 3 | FATAL Access to the path 'C:\Windows\SysWOW64\config\systemprofile\Local Settings' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Windows\SysWOW64\config\systemprofile\Local Settings' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:54.314 | 3 | FATAL Access to the path 'C:\Windows\SysWOW64\config\systemprofile\My Documents' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Windows\SysWOW64\config\systemprofile\My Documents' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:54.323 | 3 | FATAL Access to the path 'C:\Windows\SysWOW64\config\systemprofile\NetHood' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Windows\SysWOW64\config\systemprofile\NetHood' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:54.333 | 3 | FATAL Access to the path 'C:\Windows\SysWOW64\config\systemprofile\PrintHood' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Windows\SysWOW64\config\systemprofile\PrintHood' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:54.341 | 3 | FATAL Access to the path 'C:\Windows\SysWOW64\config\systemprofile\Recent' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Windows\SysWOW64\config\systemprofile\Recent' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:54.351 | 3 | FATAL Access to the path 'C:\Windows\SysWOW64\config\systemprofile\SendTo' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Windows\SysWOW64\config\systemprofile\SendTo' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:54.359 | 3 | FATAL Access to the path 'C:\Windows\SysWOW64\config\systemprofile\Start Menu' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Windows\SysWOW64\config\systemprofile\Start Menu' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 
+2015-08-02 22:21:54.368 | 3 | FATAL Access to the path 'C:\Windows\SysWOW64\config\systemprofile\Templates' is denied. Exception Message = System.UnauthorizedAccessException: Access to the path 'C:\Windows\SysWOW64\config\systemprofile\Templates' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetDirectories()
+   at InsertFileDirectory.Form1.CreateFileSystemEntries(DirectoryInfo DI) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\InsertFileDirectory\Form1.cs:line 71, 
+ Inner Exception Message = 

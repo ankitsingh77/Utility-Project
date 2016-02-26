@@ -1,0 +1,22 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\Search Files\bin\Debug\Search Files.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\Search Files\bin\Debug\Search Files.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\Search Files\obj\x86\Debug\MainWindow.baml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\Search Files\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\Search Files\obj\x86\Debug\App.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\Search Files\obj\x86\Debug\Search Files_MarkupCompile.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\Search Files\obj\x86\Debug\Search Files.g.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\Search Files\obj\x86\Debug\Search_Files.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\Search Files\obj\x86\Debug\Search Files.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\Search Files\obj\x86\Debug\Search Files.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\Search Files\obj\x86\Debug\Search Files.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\Search Files\bin\Debug\Search Files.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\Search Files\obj\x86\Debug\SearchResult.baml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\Search Files\obj\x86\Debug\SearchResult.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\Search Files\obj\x86\Debug\CustomStyleWindow.baml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\Search Files\obj\x86\Debug\App.baml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\Search Files\obj\x86\Debug\CustomStyleWindow.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\Search Files\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\Search Files\obj\x86\Debug\Search Files_MarkupCompile.lref
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\Search Files\obj\x86\Debug\themes\generic.baml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\Search Files\obj\x86\Debug\Controls\SearchBar.baml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FileSystemInfo\Search Files\obj\x86\Debug\Controls\SearchBar.g.cs
